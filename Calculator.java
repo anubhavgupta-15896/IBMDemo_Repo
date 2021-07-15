@@ -19,4 +19,8 @@ public class Calculator
   {
     return x%2 == 0;
   }
+  public static void sayHello()
+  {
+    System.out.println("Hello World");
+  }
 }
